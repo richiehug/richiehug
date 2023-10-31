@@ -1,8 +1,8 @@
 ### 👀 🖖🏻 Hello!
 
-My name is Richie, and I'm a Swiss-Mexican techie from Zurich, Switzerland. I was raised in Geneva and had been living in Malaysia, Mexico, and Ireland as well. I started working in 2008 at IBM and continued my path with different positions at startup and multinational companies, mainly focusing on the e-commerce, fintech, and IT industry. I've been working in the payment industry since 2013.
+I'm Richie, a Swiss-Mexican techie rooted in Zurich and nurtured globally. My journey began in French-speaking Switzerland (Geneva) and spanned across Malaysia, Mexico, and Ireland, giving me a unique multicultural perspective. My professional trajectory took off at IBM in 2008, and since then, I've ventured through startups and global giants, specializing in e-commerce, fintech, and IT.
 
-I currently work as a product manager for Datatrans (now part of Planet), focusing on innovation, product design & management, and UX/UI. Datatrans is a leading payment service provider in Europe and provides payment solutions for online payments. We offer subscription payments, tokenization of payment information, seamless mobile payments, marketplace solutions, and more.
+Since 2013, my expertise has been anchored in the payment industry. I now drive innovation at Datatrans, a leading payment service provider and a proud member of the Planet family. My role as a Product Manager centers around product design, management, and sharpening our UX/UI. At Datatrans, we are reshaping the online payment landscape with innovative offerings in mobile payments, tokenization products, marketplace solutions, and more.
 
 If you need any advice or got a question, send me a message! I'm pretty fast at replying.
 
