@@ -1,8 +1,8 @@
 ### 👀 🖖🏻 Hello!
 
-I'm Richie, a Swiss-Mexican techie rooted in Zurich and nurtured globally. My journey began in French-speaking Switzerland (Geneva) and spanned across Malaysia, Mexico, and Ireland, giving me a unique multicultural perspective. My professional trajectory took off at IBM in 2008, and since then, I've ventured through startups and global giants, specializing in e-commerce, fintech, and IT.
+Hi there! I'm Richie, a Swiss-Mexican product leader based in Zurich with a passion for turning complexity into clarity. My journey started in French-speaking Switzerland and led me through Malaysia, Mexico, and Ireland—each stop shaping how I think about people, technology, and design.
 
-Since 2013, my expertise has been anchored in the payment industry. I now drive innovation at Datatrans, a leading payment service provider and a proud member of the Planet family. My role as a Product Manager centers around product design, management, and sharpening our UX/UI. At Datatrans, we are reshaping the online payment landscape with innovative offerings in mobile payments, tokenization products, marketplace solutions, and more.
+Since 2013, I've dedicated my career to the payments industry, building products that move money seamlessly and securely across borders. Today, as Head of Product at Nexi Switzerland, I'm focused on shaping the next chapter of digital payments.
 
 If you need any advice or got a question, send me a message! I'm pretty fast at replying.
 
